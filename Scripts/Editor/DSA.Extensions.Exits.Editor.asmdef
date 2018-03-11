@@ -1,0 +1,8 @@
+{
+    "name": "DSA.Extensions.Exits.Editor",
+    "references": [
+        "DSA.Extensions.Exits"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
