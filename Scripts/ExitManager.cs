@@ -7,7 +7,7 @@ namespace DSA.Extensions.Exits
 {
 	public class ExitManager : ManagerBase
 	{
-		public override ExtensionEnum.Extension Extension { get { return ExtensionEnum.Extension.Exit; } }
+		public override ExtensionEnum Extension { get { return ExtensionEnum.Exit; } }
 
 		private Exit[] exits;
 		public Exit[] Exits { get { return exits; } }

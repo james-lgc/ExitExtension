@@ -9,5 +9,5 @@ using DSA.Extensions.Base;
 [System.Serializable]
 public abstract class ExitTrait : TraitBase
 {
-	public override ExtensionEnum.Extension Extension { get { return ExtensionEnum.Extension.Exit; } }
+	public override ExtensionEnum Extension { get { return ExtensionEnum.Exit; } }
 }
